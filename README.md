@@ -4,7 +4,7 @@ Hi there, I'm John Farrell a software developer based in Bristol, UK. Currently 
 
 You can check out my personal website which includes projects and articles at https://johnfarrell.dev
 
-<img align="right" alt="John Chibi" width="300px" src="https://github.com/JohnFarrellDev/JohnFarrellDev/blob/master/1599153332.png" />
+<img align="left" alt="John Chibi" width="300px" src="https://github.com/JohnFarrellDev/JohnFarrellDev/blob/master/1599153332.png" />
 
 <!--
 **JohnFarrellDev/JohnFarrellDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

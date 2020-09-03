@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/JohnFarrellDev/JohnFarrellDev/blob/master/SAnQ-nwt_2oyso00BI6ABYPdAxarJqqjOV3bt8TZ.jpg" />
+<img align="right" src="https://github.com/JohnFarrellDev/JohnFarrellDev/blob/master/SAnQ-nwt_2oyso00BI6ABYPdAxarJqqjOV3bt8TZ.jpg" style="border-radius: 5px"/>
 
 <h2>Hey 👋, I'm <a href="https://www.johnfarrell.dev">(https://)JohnFarrell(.dev)</a></h2>
   <h3>A passionate software developer from Bristol, UK. I currently focus on web development but want to learn lower level engineering too.</h3>

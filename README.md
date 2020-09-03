@@ -1,4 +1,8 @@
-### Hi there 👋
+![Hello Friend](https://github.com/JohnFarrellDev/JohnFarrellDev/blob/master/hello_-hello-friend_broken.gif)
+
+
+![John Chibi](https://github.com/JohnFarrellDev/JohnFarrellDev/blob/master/1599153332.png)  
+
 
 <!--
 **JohnFarrellDev/JohnFarrellDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

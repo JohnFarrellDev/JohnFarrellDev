@@ -1,4 +1,4 @@
-![Hello Friend](https://github.com/JohnFarrellDev/JohnFarrellDev/blob/master/hello_-hello-friend_broken.gif)
+![Hello Friend](https://github.com/JohnFarrellDev/JohnFarrellDev/blob/master/hello_-hello-friend_1.gif)
 
 
 ![John Chibi](https://github.com/JohnFarrellDev/JohnFarrellDev/blob/master/1599153332.png)  

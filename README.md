@@ -6,7 +6,8 @@
   <h3>A passionate software developer from Bristol, UK. I currently focus on web development but want to learn lower level engineering too.</h3>
   <p>
     <a href="https://johnfarrell.dev"><img src="https://img.shields.io/badge/-JohnFarrell.dev-brightgreen" alt="Website Badge"></a> 
-    </a> <a href="https://www.linkedin.com/in/johnfarrelldev/"><img src="https://img.shields.io/badge/-@John Farrell-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/johnfarrelldev" alt="LinkedIn Badge"></a>
+    <a href="https://www.linkedin.com/in/johnfarrelldev/"><img src="https://img.shields.io/badge/-@John Farrell-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/johnfarrelldev" alt="LinkedIn Badge"></a>
+    <a href="https://twitter.com/JohnFar55526330"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJohnFar55526330"></a>
   </p>
 
   <h3>Languages and Tools:</h3>

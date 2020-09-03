@@ -15,5 +15,5 @@
     <img src="https://image.flaticon.com/icons/svg/919/919851.svg" alt="react" width="40" height="40" />
     <img src="https://image.flaticon.com/icons/svg/226/226777.svg" alt="java" width="40" height="40" />
     <img src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" alt="spring" width="40" height="40" />
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" width="40" height="40" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="git" width="40" height="40" />
   </p>

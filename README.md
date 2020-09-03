@@ -8,7 +8,7 @@ You can check out my personal website which includes projects and articles at ht
 ![John Chibi](https://github.com/JohnFarrellDev/JohnFarrellDev/blob/master/1599153332.png)  
 
 
-<img align="right" alt="Ana Chibi" width="300px" src="https://imgur.com/a/icCEkDz" />
+<img align="right" alt="John Chibi" width="300px" src="https://imgur.com/a/icCEkDz" />
 
 <!--
 **JohnFarrellDev/JohnFarrellDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

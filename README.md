@@ -1,5 +1,3 @@
-![Hello Friend](https://github.com/JohnFarrellDev/JohnFarrellDev/blob/master/hello_-hello-friend_1.gif)
-
 <img align="right" alt="John Chibi" height="800px" width="600px" src="https://github.com/JohnFarrellDev/JohnFarrellDev/blob/master/hello_-hello-friend_1.gif" />
 
 Hi there, I'm John Farrell a software developer based in Bristol, UK. Currently I am focussed on web development but i have a passion for all things software.

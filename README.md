@@ -1,7 +1,13 @@
 ![Hello Friend](https://github.com/JohnFarrellDev/JohnFarrellDev/blob/master/hello_-hello-friend_1.gif)
 
 
+Hi there, I'm John Farrell a software developer based in Bristol, UK. Currently I am focussed on web development but i have a passion for all things software.
+
+You can check out my personal website which includes projects and articles at https://johnfarrell.dev
+
 ![John Chibi](https://github.com/JohnFarrellDev/JohnFarrellDev/blob/master/1599153332.png)  
+
+
 
 
 <!--

@@ -1,39 +1,20 @@
+<h2>Hey 👋, I'm <a href="https://www.johnfarrell.dev">(https://)JohnFarrell(.dev)</a></h2>
+  ---
+  <h3>A passionate software developer from Bristol, UK. I currently focus on web development but want to learn lower level engineering too.</h3>
+  <p>
+    <a href="https://johnfarrell.dev"><img src="https://img.shields.io/badge/-JohnFarrell.dev-brightgreen" alt="Website Badge"></a> 
+    </a> <a href="https://www.linkedin.com/in/johnfarrelldev/"><img src="https://img.shields.io/badge/-@John Farrell-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/johnfarrelldev" alt="LinkedIn Badge"></a>
+  </p>
 
+  <img align="right" src="images/1599153332.png" />
 
-<div>
-  <div align="left">
-    <p>Hi there, I'm John Farrell a software developer based in Bristol, UK. Currently I am focussed on web development but i have a passion for all things software. You can check out my personal website which includes projects and articles at https://johnfarrell.dev</p>       
-              
-    <img alt="John Chibi" width="300px" src="https://github.com/JohnFarrellDev/JohnFarrellDev/blob/master/1599153332.png" />
-  </div>
-  
-  <div align="right">
-    <img align="right" alt="Hello Friend, that's lame" height="800px" width="600px" src="https://github.com/JohnFarrellDev/JohnFarrellDev/blob/master/hello_-hello-friend_1.gif" />
-  </div>
-  
-<div>
+  <h3>Languages and Tools:</h3>
 
-
-
-
-
-<table>
-  <tr>
-    <td>hello</td>
-  </tr>
-</table>
-
-<!--
-**JohnFarrellDev/JohnFarrellDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="left">
+    <img src="https://image.flaticon.com/icons/svg/919/919828.svg" alt="javascript" width="40" height="40" />
+    <img src="https://image.flaticon.com/icons/svg/919/919832.svg" alt="typescript" width="40" height="40" />
+    <img src="https://image.flaticon.com/icons/svg/919/919851.svg" alt="react" width="40" height="40" />
+    <img src="https://image.flaticon.com/icons/svg/226/226777.svg" alt="java" width="40" height="40" />
+    <img src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" alt="spring" width="40" height="40" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" width="40" height="40" />
+  </p>

@@ -1,19 +1,31 @@
-<h1>Hey 👋, I'm <a href="https://www.johnfarrell.dev">(https://)JohnFarrell(.dev)</a></h1>
-<h2>A passionate software engineer from London, UK with a focus on web development</h2>
+# Hey there! 👋 I'm [John Farrell](https://johnfarrell.dev)
 
-<p>
-  <a href="https://johnfarrell.dev"><img src="https://img.shields.io/badge/-JohnFarrell.dev-brightgreen" alt="Website Badge"></a> 
-  <a href="https://www.linkedin.com/in/johnfarrelldev/"><img src="https://img.shields.io/badge/-@John Farrell-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/johnfarrelldev" alt="LinkedIn Badge"></a>
-  <a href="https://twitter.com/JohnFar55526330"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=%40JohnFarrell.dev&style=social&url=https%3A%2F%2Ftwitter.com%2FJohnFar55526330"></a>
-</p>
+## 🚀 Passionate Software Engineer | 🌍 London, UK | 💻 Web Development Enthusiast
 
-<h2>Languages and Tools:</h2>
+[![Website](https://img.shields.io/badge/Website-johnfarrell.dev-brightgreen?style=for-the-badge&logo=google-chrome)](https://johnfarrell.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Farrell-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johnfarrelldev/)
+[![Twitter](https://img.shields.io/badge/Twitter-%40JohnFarrell.dev-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/JohnFar55526330)
+
+### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://image.flaticon.com/icons/svg/919/919828.svg" alt="javascript" width="40" height="40" />
-  <img src="https://image.flaticon.com/icons/svg/919/919832.svg" alt="typescript" width="40" height="40" />
-  <img src="https://image.flaticon.com/icons/svg/919/919851.svg" alt="react" width="40" height="40" />
-  <img src="https://image.flaticon.com/icons/svg/226/226777.svg" alt="java" width="40" height="40" />
-  <img src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" alt="spring" width="40" height="40" />
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
+
+### 🌟 About Me
+
+- 🔭 I'm currently working on exciting web development projects
+- 🌱 I'm always learning and staying up-to-date with the latest tech trends
+- 💬 Ask me about JavaScript, TypeScript, React, Java, or Spring
+- 📫 How to reach me: [contact@johnfarrell.dev](mailto:contact@johnfarrell.dev)
+
+### 📊 GitHub Stats
+
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnFarrellDev&show_icons=true&theme=radical)](https://github.com/JohnFarrellDev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnFarrellDev&layout=compact&theme=radical)](https://github.com/JohnFarrellDev)

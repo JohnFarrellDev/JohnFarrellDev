@@ -24,7 +24,6 @@
 - 🔭 I'm currently working on exciting web development projects
 - 🌱 I'm always learning and staying up-to-date with the latest tech trends
 - 💬 Ask me about JavaScript, TypeScript, React, Java, C#, Spring, or AWS
-- 📫 How to reach me: [contact@johnfarrell.dev](mailto:contact@johnfarrell.dev)
 
 ### 📊 GitHub Stats
 

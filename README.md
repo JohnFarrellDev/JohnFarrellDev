@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-johnfarrell.dev-brightgreen?style=for-the-badge&logo=google-chrome)](https://johnfarrell.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Farrell-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johnfarrelldev/)
-[![Twitter](https://img.shields.io/badge/BlueSky-%40JohnFarrell.dev-1DA1F2?style=for-the-badge&logo=bluesky)]([https://twitter.com/JohnFar55526330](https://bsky.app/profile/johnfarrelldev.bsky.social))
+[![Twitter](https://img.shields.io/badge/BlueSky-%40JohnFarrell.dev-1DA1F2?style=for-the-badge&logo=bluesky)]([[https://twitter.com/JohnFar55526330](https://bsky.app/profile/johnfarrelldev.bsky.social)](https://bsky.app/profile/johnfarrelldev.bsky.social))
 
 ### 🛠️ Languages and Tools
 
